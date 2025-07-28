@@ -44,13 +44,13 @@
 ---
 
 🤝 Contributing / Katkıda Bulunma
-Feel free to fork this repository and contribute by submitting pull requests!
-Bu projeye katkıda bulunmak istersen, depoyu forklayarak geliştirmeler yapabilir ve pull request gönderebilirsin!
+-Feel free to fork this repository and contribute by submitting pull requests!
+-Bu projeye katkıda bulunmak istersen, depoyu forklayarak geliştirmeler yapabilir ve pull request gönderebilirsin!
 
 ---
 
-📬 Contact / İletişim
-📧 beydakilicoglu@gmail.com
-📌 GitHub: https://github.com/beida-ce
+-📬 Contact / İletişim
+-📧 beydakilicoglu@gmail.com
+-📌 GitHub: https://github.com/beida-ce
 
-✨ Happy Coding & Have Fun! / İyi kodlamalar ve iyi eğlenceler! 🚀
+-✨ Happy Coding & Have Fun! / İyi kodlamalar ve iyi eğlenceler! 🚀
