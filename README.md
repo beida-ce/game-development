@@ -2,10 +2,10 @@
 ## 🛠 About
 Welcome! This repository contains mini-games developed as part of my journey in learning Unity game development. I am following Unity's Junior Programmer Path to improve my skills, and these projects reflect my progress and experiments. 🚀  
 ---
-## 📌 Features 
-✅ **Mini-games developed with Unity** 
-✅ **Projects aligned with the Junior Programmer Path** 
-✅ **Basic game mechanics implemented with C#** 
+## 📌 Features
+✅ **Mini-games developed with Unity**
+✅ **Projects aligned with the Junior Programmer Path**
+✅ **Basic game mechanics implemented with C#**
 ✅ **Practice in both 2D and 3D game development** 
 ---
 ## 📷 Screenshots 
