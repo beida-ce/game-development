@@ -1,4 +1,5 @@
-# 🎮 Unity Mini Games Repository 
+# 🎮 Unity Mini Games Repository
+
 ## 🛠 About
 This repository contains mini-games developed as part of my journey in learning Unity game development. I am following Unity's Junior Programmer Path to improve my skills, and these projects reflect my progress and experiments. 🚀  
 ---
